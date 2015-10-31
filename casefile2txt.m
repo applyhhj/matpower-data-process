@@ -8,7 +8,7 @@ if nargin <2
     
 end
 
-default_path='F:\projects\data\mpc\';
+default_path='F:\projects\data\matpower-data-process\data\';
 
 [pathstr,name,ext]=fileparts(casefile);
 
