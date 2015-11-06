@@ -1,3 +1,5 @@
+% in matpower phase shifter is not modelled, all phase shifter angle are
+% set to 0.
 
 clc;clear;
 
